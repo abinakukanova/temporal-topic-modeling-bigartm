@@ -12,4 +12,4 @@
 - gazeta_artm_timestamps.ipynb, lenta-artm_timestamps.ipynb, ria_artm_timestamps.ipynb - jupyter notebooks для создания модели ARTM, учитывающей метки времени документов и 
   визуализации графиков с метриками качества модели, матрицами документов
 
-[Текст работы]{https://github.com/AbinaKukanova/temporal-topic-modeling-bigartm/blob/main/docs/term-paper.pdf}
+* [Текст работы](https://github.com/AbinaKukanova/temporal-topic-modeling-bigartm/blob/main/docs/term-paper.pdf)
