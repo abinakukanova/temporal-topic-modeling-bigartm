@@ -6,6 +6,8 @@
 
 В качестве исходных данных были использованы статьи с российских новостных порталов за последние 10 лет, а именно: Lenta.ru, РИА Новости и Газета.Ru. Для создания коллекции новостных постов с информационного агенства «РИА Новости» был написан [парсер](https://github.com/AbinaKukanova/ria-agency-news) для скачивания статей, используя асинхронное программирования. Для других два источника были взяты готовые датасеты для NLP-задач: [Газета.Ru](https://github.com/IlyaGusev/gazeta) и [Lenta.ru](https://github.com/yutkin/Lenta.Ru-News-Dataset)
 
-Gazeta-BERTopic-DTM.ipynb, Lenta-BERTopic_DTM.ipynb, Ria-BERTopic-DTM.ipynb - jupyter notebooks для создания BERTopic модели и графиков развития тематик со временем
-gazeta_model_plsa.ipynb, lenta-model plsa.ipynb, ria_model_plsa.ipynb - jupyter notebooks для создания классической модели ARTM и графиков с метриками качества модели и матрицами
-gazeta_artm_timestamps.ipynb, lenta-artm_timestamps.ipynb, ria_artm_timestamps.ipynb - jupyter notebooks для создания модели ARTM, учитывающей метки времени документов и визуализации графиков с метриками качества модели, матрицами документов
+- Gazeta-BERTopic-DTM.ipynb, Lenta-BERTopic_DTM.ipynb, Ria-BERTopic-DTM.ipynb - jupyter notebooks для создания BERTopic модели и графиков развития тематик со временем
+- gazeta_model_plsa.ipynb, lenta-model plsa.ipynb, ria_model_plsa.ipynb - jupyter notebooks для создания классической модели ARTM и графиков с метриками качества модели и 
+  матрицами
+- gazeta_artm_timestamps.ipynb, lenta-artm_timestamps.ipynb, ria_artm_timestamps.ipynb - jupyter notebooks для создания модели ARTM, учитывающей метки времени документов и 
+  визуализации графиков с метриками качества модели, матрицами документов
