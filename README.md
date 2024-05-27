@@ -11,3 +11,5 @@
   матрицами
 - gazeta_artm_timestamps.ipynb, lenta-artm_timestamps.ipynb, ria_artm_timestamps.ipynb - jupyter notebooks для создания модели ARTM, учитывающей метки времени документов и 
   визуализации графиков с метриками качества модели, матрицами документов
+
+[Текст работы]{https://github.com/AbinaKukanova/temporal-topic-modeling-bigartm/blob/main/kukanova_ad_kakie-temy-vsegda-s-nami---issledovanie-izmeneniya-novostnyh-tematik-s-techeniem-vremeni_288603.pdf}
